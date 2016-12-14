@@ -1,4 +1,5 @@
 -- media history for mpv saved to ~/mpv.log
+-- put it under ~/.config/mpv/scripts/
 -- by pwg aka bodzioslaw (2016)
 
 function log_media()
